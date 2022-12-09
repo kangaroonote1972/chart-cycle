@@ -1,7 +1,3 @@
-# tradePlan
-- リポジトリ : https://github.com/kangaroonote1972/tradePlan.git
-- 公開用URL : https://kangaroonote1972.github.io/tradePlan/README.md
-
 # 今日の想定
 [2022/12/23](./202212/30/main.md)  
 [2022/12/19](./202212/26/main.md)  
