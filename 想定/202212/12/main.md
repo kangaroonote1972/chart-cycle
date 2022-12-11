@@ -125,9 +125,9 @@
 ![](./ash/usdjpy_1d-002.png)
 ### サブシナリオ
 - メイン、サブどちらにせよMCはLT想定
-![](ash/usdjpy_1d-003.png)
+![](./ash/usdjpy_1d-003.png)
 ### 週足
-![](ash/usdjpy_1w-001.png)
+![](./ash/usdjpy_1w-001.png)
 ### 日足
 - LTを確定しているので、ショートでMC、PCのボトム割れまで狙う
 ![](ash/2022-12-11-19-39-01.png)
