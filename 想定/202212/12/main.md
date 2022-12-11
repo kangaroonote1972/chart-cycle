@@ -158,6 +158,6 @@
 <iframe height="1500" width="2000" src="./Ash/crossyen.pdf"></iframe>
 
 ## Discord
-![](ash/2022-12-12-07-49-08.png)
+![](Ash/2022-12-12-07-49-08.png)
 
 
