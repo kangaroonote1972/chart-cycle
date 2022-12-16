@@ -1,3 +1,14 @@
-[GBPJPY](./GBPJPY/main.md)  
-[GBPUSD](./GBPUSD/main.md)  
+# memo
+- markdownのリンクだとmdファイルがhtmlにコンパイルされたものが表示されてしまうので、htmlタグとmarkdown両方でリンクする  
+
+# GBPJPY
+- PC用
+<a href="./GBPJPY/main.md">GBPJPY</a>
+- スマホ用
+[GBPJPY](./GBPJPY/main.md)
+
+# GBPUSD
+- PC用
 <a href="./GBPUSD/main.md">GBPUSD</a>
+- スマホ用
+[GBPUSD](./GBPUSD/main.md)
