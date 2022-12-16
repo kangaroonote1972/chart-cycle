@@ -1,2 +1,3 @@
 [GBPJPY](./GBPJPY/main.md)  
-[GBPUSD](./GBPUSD/readme.md)  
+[GBPUSD](./GBPUSD/main.md)  
+<a href="./GBPUSD/main.md">GBPUSD</a>
