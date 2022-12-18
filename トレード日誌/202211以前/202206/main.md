@@ -1,0 +1,20 @@
+﻿# 202206
+## AUDJPY_2022-06_4H-001.png
+![](./AUDJPY_2022-06_4H-001.png)  
+## AUDJPY_2022-06_4H-002_イグジット.png
+![](./AUDJPY_2022-06_4H-002_イグジット.png)  
+## AUDUSD_2022-06_4H-001.png
+![](./AUDUSD_2022-06_4H-001.png)  
+## EURUSD_2022-06-001_4H.png
+![](./EURUSD_2022-06-001_4H.png)  
+## EURUSD_2022-06-002_1D.png
+![](./EURUSD_2022-06-002_1D.png)  
+## EURUSD_2022-06-002_4H.png
+![](./EURUSD_2022-06-002_4H.png)  
+## USDJPY_2022-06_4H-001.png
+![](./USDJPY_2022-06_4H-001.png)  
+## USDJPY_2022-06_4H-002.png
+![](./USDJPY_2022-06_4H-002.png)  
+## USDJPY_2022-06_4H-003.png
+![](./USDJPY_2022-06_4H-003.png)  
+
