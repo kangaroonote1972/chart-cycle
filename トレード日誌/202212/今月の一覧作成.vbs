@@ -11,7 +11,6 @@ For Each sfol In fol.SubFolders
     s = s & "[" & sfol.Name & "](./" & sfol.Name & "/main.md)  " & vbCrLf
 Next
 
-' 日記雛形読み込み→日付部分を置換
 Set ado = CreateObject("ADODB.Stream")
 ado.Open
 ado.Type = 2 ' テキストファイル
