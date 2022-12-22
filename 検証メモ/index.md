@@ -1,4 +1,7 @@
-# memo
+# 検証メモ
+[一覧に戻る](../readme.md)  
+---
+# メモ
 - `markdown`のリンクだと`github`で`mdファイル`を`html`にコンパイルしたものが表示されてしまうので、htmlタグ(PC用)とmarkdown(スマホ用)両方でリンクする  
 
 # GBPJPY
