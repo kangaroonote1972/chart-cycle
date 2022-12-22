@@ -14,6 +14,7 @@
 - MACDは中心から離れているか？      : Yes No
 - MACDはクロスしそうか？            : Yes No
 - MACDダイバージェンス(Yes=有/No=無): Yes No
+- 高安値、切上げ下げ(Yes=有/No=無)  : Yes No
 - 上げ下げ渋り(Yes=有/No=無)        : Yes No
 - 日足ピンバー？                    : Yes No
 - 20SMAとの位置関係
