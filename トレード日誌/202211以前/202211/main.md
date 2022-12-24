@@ -1,40 +1,43 @@
 ﻿# 202211
-## AUDJPY_2022-11_1H-001.png
+[一覧](../index.md)
+
+---
+## AUDJPY_2022-11_001
 ![](./AUDJPY_2022-11_1H-001.png)  
-## AUDJPY_2022-11_4H-001.png
 ![](./AUDJPY_2022-11_4H-001.png)  
-## EURJPY_2022-11_15M-001.png
+
+---
+## EURJPY_2022-11_001
 ![](./EURJPY_2022-11_15M-001.png)  
-## EURJPY_2022-11_4H-001.png
 ![](./EURJPY_2022-11_4H-001.png)  
-## EURUSD_2021-11-11_5M_エントリー.png
-![](./EURUSD_2021-11-11_5M_エントリー.png)  
-## EURUSD_2021-11-12_5M_決済.png
-![](./EURUSD_2021-11-12_5M_決済.png)  
-## EURUSD_2021-11-15_5M_トレード結果.png
-![](./EURUSD_2021-11-15_5M_トレード結果.png)  
-## EURUSD_2022-11_15M-001.png
+
+---
+## EURUSD_2022-11_001
 ![](./EURUSD_2022-11_15M-001.png)  
-## EURUSD_2022-11_4H-001.png
 ![](./EURUSD_2022-11_4H-001.png)  
-## GBPJPY_2022-11_15M-001.png
+
+---
+## GBPJPY_2022-11_001
 ![](./GBPJPY_2022-11_15M-001.png)  
-## GBPJPY_2022-11_4H-001.png
 ![](./GBPJPY_2022-11_4H-001.png)  
-## GBPUSD_2022-11_1H-001.png
+
+---
+## GBPUSD_2022-11_001
 ![](./GBPUSD_2022-11_1H-001.png)  
-## GBPUSD_2022-11_4H-001.png
 ![](./GBPUSD_2022-11_4H-001.png)  
-## NZDJPY_2022-11_1H-001.png
+
+---
+## NZDJPY_2022-11_001
 ![](./NZDJPY_2022-11_1H-001.png)  
-## NZDJPY_2022-11_4H-001.png
 ![](./NZDJPY_2022-11_4H-001.png)  
-## NZDUSD_2022-11_1H-001.png
+
+---
+## NZDUSD_2022-11_001
 ![](./NZDUSD_2022-11_1H-001.png)  
-## NZDUSD_2022-11_4H-001.png
 ![](./NZDUSD_2022-11_4H-001.png)  
-## USDJPY_2022-11_14H-001.png
+
+---
+## USDJPY_2022-11_001
 ![](./USDJPY_2022-11_14H-001.png)  
-## USDJPY_2022-11_15M-001.png
 ![](./USDJPY_2022-11_15M-001.png)  
 
