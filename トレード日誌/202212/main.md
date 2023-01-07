@@ -10,7 +10,7 @@
 [15_EURJPY 損切 ash](./15_EURJPY/main.md)  
 [15_EURUSD 損切](./15_EURUSD/main.md)  
 [15_GBPJPY 損切／利確 ash](./15_GBPJPY/main.md)  
-[16_EURJPY 利確 ash](./16_EURJPY/main.md)  
+[16_EURJPY 利確 ash その後未](./16_EURJPY/main.md)  
 [16_EURUSD 建値](./16_EURUSD/main.md)  
 [19_GBPUSD 損切](./19_GBPUSD/main.md)  
 [20_EURUSD 利確／建値](./20_EURUSD/main.md)  
