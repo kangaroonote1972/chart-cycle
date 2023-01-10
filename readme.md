@@ -6,6 +6,9 @@
 [サイクルチャートキャプチャ](./サイクル/index.html)  
 
 ---
+# 当リポジトリは`public`にすること
+- Privateでは課金が必要になる
+
 # Web公開方法
 - url : https://kangaroonote1972.github.io/chart-cycle/
 - Github Pagesを利用。リポジトリは `public` にする必要がある。`private` での利用は有償。

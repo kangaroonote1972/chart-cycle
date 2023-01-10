@@ -7,7 +7,6 @@
 
 ---
 
-
 # GBPJPY
 - PC用
 <a href="./GBPJPY/main.md">GBPJPY</a>
@@ -38,4 +37,11 @@
 <a href="./AUDUSD/main.md">AUDUSD</a>
 - スマホ用
 [AUDUSD](./AUDUSD/main.md)
+
+# NZDUSD
+- PC用
+<a href="./NZDUSD/main.md">NZDUSD</a>
+- スマホ用
+[NZDUSD](./NZDUSD/main.md)
+
 
