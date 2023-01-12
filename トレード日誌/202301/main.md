@@ -17,10 +17,11 @@
 [10_GBPJPY 損切](./10_GBPJPY/main.md)  
 
 ## 全ての取引で勝つことはできない（確率論的な負け）
+[11_NZDUSD 損切](./11_NZDUSD/main.md)  
 
 ---
 # 勝ち
 
 ---
 # ポジション保有中
-[11_NZDUSD ★](./11_NZDUSD/main.md)  
+[12_NZDUSD 損切](./12_NZDUSD/main.md)  
